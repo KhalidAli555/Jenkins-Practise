@@ -1,1 +1,1 @@
-print ("this is the first python code V2")
+prin ("this is the first python code V2")
